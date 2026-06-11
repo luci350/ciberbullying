@@ -1,0 +1,69 @@
+body {
+    background-color: rgb(132, 214, 194);
+}
+
+
+.titulo{
+    color: blue;
+}
+
+
+.titulo-video{color: black;
+}
+
+
+/* Contenedor para espacio */
+.contenedor-imagen {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+/* Contenedor para espacio */
+.contenedor-imagen {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+/* Eatilo de la imagen */
+.imagen-web {
+    width: 100%;
+    max-width: 650px; /* Ancho maximo en PC para que no se pixele */
+    height: auto; /* Mantiene la proporcion */
+    display: block; /* Necesario para centrar */
+    margin: 0 auto; /* Centra la imagen horizontalmente */
+    border-radius: 8px; /* Esquinas redondas */
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);/* Sombra sutil */
+}
+
+/* Contenedor para espacio */
+.contenedor-imagen { 
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+/* Estilo de la imagen */
+.imagen-web { 
+    width: 100%;
+    max-width: 650px; /* Ancho maximo en PC para que no se pixele */
+    height: auto; /* Mantiene la propocion */
+    display: block; /* Necesario para centrar */
+    margin: 0 auto; /* Centra la imagen horizontalmente */
+    border-radius: 8px; /* Esquinas redondas */
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);/* Sombra sutil */
+}
+
+
+/* Titulo del podcast */
+.titulo-podcast {
+    font-size: 28px;
+    color: #2c3e50;
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+
+
+/* CAontenedor del podcast */
+.contenedor-podcast {
+    margin-bottom: 40px; /* Espacio despues del podcast */
+}
